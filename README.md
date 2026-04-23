@@ -16,6 +16,7 @@
 - **RAM Usage**: Tracks physical memory usage with GB values and percentage.
 - **Dual Storage Tracking**: Monitors free space on both C: and D: drives.
 - **Network Traffic**: Displays live Download and Upload speeds.
+- **Weather Forecast**: Shows current weather conditions and temperature via wttr.in.
 - **Dynamic Color Alerts**: Colors automatically change based on resource usage:
   - 🔵 **Normal** (Under 75%)
   - 🟡 **Warning** (75% to 89%)
